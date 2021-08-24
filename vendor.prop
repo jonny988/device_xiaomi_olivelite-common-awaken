@@ -248,3 +248,6 @@ persist.sys.binary_xml=false
 
 # Time Services
 persist.timed.enable=true
+
+# Disable Blur
+ro.launcher.blur.appLaunch=0
