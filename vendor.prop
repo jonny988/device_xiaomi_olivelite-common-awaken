@@ -174,12 +174,8 @@ vendor.vidc.enc.disable.pq=true
 vendor.vidc.enc.disable_bframes=1
 vendor.video.disable.ubwc=1
 
-# Memory optimizations
-ro.vendor.qti.sys.fw.bservice_enable=true
-
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
-ro.vendor.perf.scroll_opt=true
 
 # Network manager daemon
 ro.vendor.use_data_netmgrd=true
@@ -221,8 +217,6 @@ vendor.service.qti.ims.enabled=1
 # SurfaceFlinger
 debug.sf.early_app_phase_offset_ns=500000
 debug.sf.early_gl_app_phase_offset_ns=15000000
-debug.sf.early_phase_offset_ns=1500000
-debug.sf.early_app_phase_offset_ns=1500000
 debug.sf.early_gl_phase_offset_ns=3000000
 debug.sf.early_phase_offset_ns=500000
 debug.sf.high_fps_early_gl_phase_offset_ns=9000000
