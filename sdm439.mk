@@ -120,6 +120,9 @@ PRODUCT_PACKAGES += \
     Snap
 
 PRODUCT_PACKAGES += \
+    GoogleCameraGO
+
+PRODUCT_PACKAGES += \
     libwa_dof
 
 # Dirac
