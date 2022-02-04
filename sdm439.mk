@@ -120,15 +120,6 @@ PRODUCT_PACKAGES += \
     Snap
 
 PRODUCT_PACKAGES += \
-    DuckDuckGo
-
-PRODUCT_PACKAGES += \
-    SimpleGallery
-
-PRODUCT_PACKAGES += \
-    GoogleCameraGO
-
-PRODUCT_PACKAGES += \
     libwa_dof
 
 # Dirac
