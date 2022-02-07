@@ -123,6 +123,9 @@ PRODUCT_PACKAGES += \
     GoogleCameraGO
 
 PRODUCT_PACKAGES += \
+    DocumentsUIL
+
+PRODUCT_PACKAGES += \
     libwa_dof
 
 # Dirac
