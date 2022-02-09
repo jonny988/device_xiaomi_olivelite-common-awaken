@@ -55,9 +55,6 @@ vendor.voice.voip.conc.disabled=true
 # shutdown
 ro.build.shutdown_timeout=2
 
-# Apex
-ro.apex.updatable=false
-
 # Audio Fluence
 persist.vendor.audio.fluence.speaker=true
 persist.vendor.audio.fluence.voicecall=true
