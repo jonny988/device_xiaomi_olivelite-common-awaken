@@ -235,6 +235,7 @@ ro.surface_flinger.vsync_sf_event_phase_offset_ns=6000000
 
 # Sensor
 ro.vendor.sensors.pseudo_gyro=true
+debug.sensors.diag_buffer_log=false
 
 # SoC
 ro.soc.manufacturer=Qualcomm
